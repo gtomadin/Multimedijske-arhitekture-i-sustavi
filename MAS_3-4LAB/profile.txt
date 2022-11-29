@@ -1,0 +1,6 @@
+1. discreteCosineTransform 78.95%
+2. writeIntMatrix 10.53%		
+3. myRound 5.26%
+4. shift 5.26%
+5. getNumberOfBlocks 0%
+Vrijeme izvodjenja: 6.012 s.

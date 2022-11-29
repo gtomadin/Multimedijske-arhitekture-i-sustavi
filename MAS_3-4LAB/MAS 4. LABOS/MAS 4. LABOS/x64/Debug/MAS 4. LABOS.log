@@ -1,0 +1,26 @@
+﻿  mas 4. labos.c
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(201,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(202,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(203,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(268,31): warning C4047: 'function': 'const Ipp32f *' differs in levels of indirection from 'float [8][8]'
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(268,23): warning C4024: 'ippiDCT8x8Fwd_32f_C1': different types for formal and actual parameter 1
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(268,38): warning C4047: 'function': 'Ipp32f *' differs in levels of indirection from 'float [8][8]'
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(268,33): warning C4024: 'ippiDCT8x8Fwd_32f_C1': different types for formal and actual parameter 2
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(269,32): warning C4047: 'function': 'const Ipp32f *' differs in levels of indirection from 'float [8][8]'
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(269,23): warning C4024: 'ippiDCT8x8Fwd_32f_C1': different types for formal and actual parameter 1
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(269,40): warning C4047: 'function': 'Ipp32f *' differs in levels of indirection from 'float [8][8]'
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(269,34): warning C4024: 'ippiDCT8x8Fwd_32f_C1': different types for formal and actual parameter 2
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(270,32): warning C4047: 'function': 'const Ipp32f *' differs in levels of indirection from 'float [8][8]'
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(270,23): warning C4024: 'ippiDCT8x8Fwd_32f_C1': different types for formal and actual parameter 1
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(270,40): warning C4047: 'function': 'Ipp32f *' differs in levels of indirection from 'float [8][8]'
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(270,34): warning C4024: 'ippiDCT8x8Fwd_32f_C1': different types for formal and actual parameter 2
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(234,8): warning C4101: 'cos2': unreferenced local variable
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(236,15): warning C4101: 'v': unreferenced local variable
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(233,8): warning C4101: 'cos1': unreferenced local variable
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(231,8): warning C4101: 'sumCb': unreferenced local variable
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(232,8): warning C4101: 'sumCr': unreferenced local variable
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(236,12): warning C4101: 'u': unreferenced local variable
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(229,12): warning C4101: 'Cv': unreferenced local variable
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(229,8): warning C4101: 'Cu': unreferenced local variable
+C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\MAS 4. LABOS\mas 4. labos.c(230,8): warning C4101: 'sumY': unreferenced local variable
+  MAS 4. LABOS.vcxproj -> C:\Code\Visual Studio\MAS 4.LABOS\MAS 4. LABOS\x64\Debug\MAS 4. LABOS.exe
